@@ -2,7 +2,7 @@
 
 ## Goal
 
-To take the given starter code and use the jQuery API to build an interactive site for
+To take the given starter code and use the jQuery API to build a fully interactive daily work scheduler. The over arching idea of this project was to test a new found skill in building a code base with jQuery and using the local storage set in the users web browser to store information for later use. The website is desgined to track the current time of the day and display an easy to understand Ui. The schedule will auto-matically color code itself depending on what time of day it is. If the time has past, the box will grey out. If it is the current hour, it will be displayed in red and any blocks that are set in the future will be displayed in green. 
 
 ## User Story
 
@@ -36,6 +36,7 @@ The Following image demonstrates the landing page's desired layout:
 ![The demo of project](./Assets/05-third-party-apis-homework-demo.gif)
 
 ## Purpose of the Project
+As stated above, the purpose of this project was to test a new skill in jQuery and using the browsers local stroage. 
 
 ## Challenges
 
@@ -48,3 +49,4 @@ The Following image demonstrates the landing page's desired layout:
 ## Links
 
 This links to the live page:
+https://mmount98.github.io/Daily--Work-Day-Scheduler/
