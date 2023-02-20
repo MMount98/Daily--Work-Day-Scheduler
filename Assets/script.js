@@ -34,7 +34,7 @@ $(function () {
   the id element's value to the current hour */
   $(".time-block").each(function () {
     //DECLARED VARIBLE - local
-    var classHour = $(this).attr("id").split("-")[1]; //use .attr to find id and .spilt to remove the "hour-" from the id
+    var classHour = $(this).attr("id").split("-")[1]; //use .attr to find id and .spilt to create an array and indexing the secound object in array.
 
     /* if statement to compare the classHour var(local) to the hourValue(global) and 
     removes unwanted class and add needed class */
