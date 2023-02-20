@@ -9,7 +9,7 @@ $(function () {
 
   //Click event with a function set to store user input to the local storage
   $(".saveBtn").on("click", function () {
-    //DECLared VARIBLES - local
+    //DECLARED VARIBLES - local
 
     var clickbtn = $(this); //sets this to listen to direct div
     var parentTimeBlock = clickbtn.parent(); //refrence to each boxes parent element
